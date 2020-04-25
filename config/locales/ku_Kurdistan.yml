@@ -42,7 +42,7 @@ kurdish:
         info: Change the branding image that appears in the top left corner
         placeholder: Image Url...
         title: Branding Image
-        invalid: Invalid URL
+        invalid: بەستەرەکە هەڵەیە
       cache:
         info: Clears the stored provider cache which forces a new request for the updated info
         title: Clear Provider Cache
