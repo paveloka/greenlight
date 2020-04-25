@@ -38,7 +38,7 @@ kurdish:
         title: Require Authentication for Rooms
         user-info: You must sign in to Greenlight to join this room
       branding:
-        change: Change Image
+        change: وێنە بگۆڕە
         info: Change the branding image that appears in the top left corner
         placeholder: Image Url...
         title: Branding Image
