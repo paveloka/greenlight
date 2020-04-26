@@ -276,10 +276,10 @@ en:
       start: Start searching...
   landing:
     about: "%{href} is a simple front-end for your Sharp open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    welcome: Welcome to Sharpsoft.
+    video: Watch our tutorial on using Sharpsoft
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    version: We've released a new version of Sharpsoft, but your database isn't compatible.
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
@@ -291,10 +291,10 @@ en:
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
-          info: A new user has signed up to use Greenlight.
-          more-info: To allow this user to access Greenlight you must approve their account in organization settings.
+          info: A new user has signed up to use Sharpsoft.
+          more-info: To allow this user to access Sharpsoft you must approve their account in organization settings.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New Sharpsoft User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Account Approved
         username: Your username is %{email}.
